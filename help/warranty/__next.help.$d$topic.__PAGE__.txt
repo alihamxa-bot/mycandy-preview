@@ -1,0 +1,36 @@
+2:"$Sreact.fragment"
+3:"/mycandy-preview/_next/static/chunks/03-2apqwlzd3u.js"
+4:"/mycandy-preview/_next/static/chunks/3dz_xz4ebigx6.js"
+5:I[22950,["$3","$4"],"default"]
+6:I[63384,["$3","$4"],"default"]
+d:"/mycandy-preview/_next/static/chunks/16pr36k87q4z6.js"
+e:"/mycandy-preview/_next/static/chunks/3f22j1ah0a712.js"
+f:I[54560,["$3","$4","$d","$e"],""]
+16:"ViewportBoundary"
+17:I[12616,["$3","$4"],"$16"]
+18:"MetadataBoundary"
+19:I[12616,["$3","$4"],"$18"]
+1a:"$Sreact.suspense"
+1b:I[74958,["$3","$4"],"IconMark"]
+8:X
+8:C
+9:X
+c:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$2","c",{"children":[["$","div",null,{"className":"mx-auto flex max-w-7xl flex-col gap-10 px-6 pt-12 pb-24 lg:flex-row","children":[["$","nav",null,{"aria-label":"Help topics","className":"flex flex-col gap-1 lg:w-60 lg:shrink-0","children":[[["$","$Lf","warranty",{"href":"/help/warranty","aria-current":"page","className":"rounded-xl px-4 py-2.5 text-[15px] bg-cloud font-semibold","children":"Warranty"}],["$","$Lf","contact",{"href":"/help/contact","className":"rounded-xl px-4 py-2.5 text-[15px] hover:bg-cloud","children":"Contact us"}],["$","$Lf","store-locations",{"href":"/help/store-locations","className":"rounded-xl px-4 py-2.5 text-[15px] hover:bg-cloud","children":"Store locations"}],["$","$Lf","refund-returns-policy",{"href":"/help/refund-returns-policy","className":"rounded-xl px-4 py-2.5 text-[15px] hover:bg-cloud","children":"Refunds & returns"}],["$","$Lf","shipping-charges",{"href":"/help/shipping-charges","className":"rounded-xl px-4 py-2.5 text-[15px] hover:bg-cloud","children":"Shipping charges"}],["$","$Lf","privacy-policy",{"href":"/help/privacy-policy","className":"rounded-xl px-4 py-2.5 text-[15px] hover:bg-cloud","children":"Privacy policy"}],["$","$Lf","terms-conditions",{"href":"/help/terms-conditions","className":"rounded-xl px-4 py-2.5 text-[15px] hover:bg-cloud","children":"Terms & conditions"}]],["$","$Lf",null,{"href":"/faq","className":"rounded-xl px-4 py-2.5 text-[15px] hover:bg-cloud","children":"FAQs"}]]}],["$","article",null,{"className":"max-w-2xl flex-1","children":[["$","h1",null,{"className":"font-display text-[clamp(30px,3.6vw,44px)] leading-none font-bold tracking-[-0.04em]","children":"Warranty"}],["$","div",null,{"className":"mt-6 flex flex-col gap-4 text-[17px] leading-relaxed text-ink-soft","children":[["$","p",null,{"children":["Every mycandy product comes with a ","1-year"," mycandy warranty from the date you bought it. If it fails during normal use in that time, it's repaired or replaced."]}],["$","h2",null,{"className":"scroll-mt-24 pt-4 font-display text-xl font-bold tracking-[-0.02em] text-ink","children":"What you need"}],["$","p",null,{"children":"Your dated receipt or original invoice. If the box came with a warranty card or serial number, keep that too. The warranty belongs to the person who bought the product and can't be transferred."}],["$","h2",null,{"className":"scroll-mt-24 pt-4 font-display text-xl font-bold tracking-[-0.02em] text-ink","children":"What isn't covered"}],["$","p",null,{"children":"Drops and other physical damage, liquid damage, humidity or rust, accidents, misuse, damage in transport, normal wear and tear, cosmetic changes, using the wrong voltage, or using the product against its manual. Repairs or changes by anyone other than an authorised mycandy service centre end the warranty."}],["$","h2",null,{"className":"scroll-mt-24 pt-4 font-display text-xl font-bold tracking-[-0.02em] text-ink","children":"How to make a claim"}],["$","p",null,{"children":["Take the product and your receipt to the store or distributor you bought it from, or to a mycandy service centre in the UAE. You can also email ",["$","a",null,{"href":"mailto:hi@mycandytech.com","className":"font-medium text-accent hover:underline","children":"hi@mycandytech.com"}]," with your receipt, the model code on the box (for example TWS-E300) and a short description of the problem. We reply within ","1 business day","."]}],["$","h2",null,{"className":"scroll-mt-24 pt-4 font-display text-xl font-bold tracking-[-0.02em] text-ink","children":"Bought outside the UAE?"}],["$","p",null,{"children":"The warranty and service options may not apply to products bought or shipped outside the UAE."}],"$L10","$L11"]}]]}]]}],["$L12","$L13"],"$L14"]}],"p":"$@15","v":null,"s":"$9"}}]]
+a:[["children",{"s":{"n":"topic","t":"d","k":"warranty","s":[]},"h":65632,"d":{"r":["$","$2","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","template":["$","$L6",null,{}]}]]}],"p":"$@b","v":"$8","s":"$9"},"c":"$Qc"}]]
+1:[["children",{"s":"help","h":131136,"d":{"r":["$","$2","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","template":["$","$L6",null,{}]}]]}],"p":"$@7","v":"$8","s":"$9"},"c":"$Qa"}]]
+0:{"t":{"t":{"s":"","h":131088,"c":"$Q1"},"h":{"r":["$","$2","h",{"children":[null,["$","$L17",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","$L19",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$1a",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Warranty | mycandy"}],["$","meta","1",{"name":"description","content":"mycandy, a part of Axiom by Tradeling, is a brand of mobile phone accessories focused on quality, functionality and value for money."}],["$","meta","2",{"name":"robots","content":"noindex, nofollow"}],["$","link","3",{"rel":"icon","href":"/mycandy-preview/brand/mycandy-mark.svg"}],["$","$L1b","4",{}]]}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":"$@1c","v":null,"s":"$9"}},"a":"$@1d","u":"$@1e","b":"fJfr9fsFEiPDMaJ-SoJAG"}
+1f:I[12616,["$3","$4"],"OutletBoundary"]
+10:["$","h2",null,{"className":"scroll-mt-24 pt-4 font-display text-xl font-bold tracking-[-0.02em] text-ink","children":"Your rights"}]
+11:["$","p",null,{"children":"This warranty gives you specific legal rights, and you may have other rights that vary under local laws. We may change a product, its packaging or its documentation, or correct printing errors. Any changes are reflected on the packaging and in the user manual."}]
+12:["$","script","script-0",{"src":"/mycandy-preview/_next/static/chunks/16pr36k87q4z6.js","async":true}]
+13:["$","script","script-1",{"src":"/mycandy-preview/_next/static/chunks/3f22j1ah0a712.js","async":true}]
+14:["$","$L1f",null,{"children":["$","$1a",null,{"name":"Next.MetadataOutlet","children":"$@20"}]}]
+1e:true
+9:300
+20:null
+9:C
+1d:0
+b:"$undefined"
+7:"$undefined"
+1c:"$undefined"
+15:"$undefined"

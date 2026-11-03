@@ -1,0 +1,33 @@
+2:"$Sreact.fragment"
+3:"/mycandy-preview/_next/static/chunks/03-2apqwlzd3u.js"
+4:"/mycandy-preview/_next/static/chunks/3dz_xz4ebigx6.js"
+5:I[22950,["$3","$4"],"default"]
+6:I[63384,["$3","$4"],"default"]
+d:"/mycandy-preview/_next/static/chunks/16pr36k87q4z6.js"
+e:"/mycandy-preview/_next/static/chunks/3f22j1ah0a712.js"
+f:I[54560,["$3","$4","$d","$e"],""]
+10:"ShippingRatesTable"
+11:I[26304,["$3","$4","$d","$e"],"$10"]
+12:I[12616,["$3","$4"],"OutletBoundary"]
+13:"$Sreact.suspense"
+16:"ViewportBoundary"
+17:I[12616,["$3","$4"],"$16"]
+18:"MetadataBoundary"
+19:I[12616,["$3","$4"],"$18"]
+1a:I[74958,["$3","$4"],"IconMark"]
+8:X
+8:C
+9:X
+c:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$2","c",{"children":[["$","div",null,{"className":"mx-auto flex max-w-7xl flex-col gap-10 px-6 pt-12 pb-24 lg:flex-row","children":[["$","nav",null,{"aria-label":"Help topics","className":"flex flex-col gap-1 lg:w-60 lg:shrink-0","children":[[["$","$Lf","warranty",{"href":"/help/warranty","className":"rounded-xl px-4 py-2.5 text-[15px] hover:bg-cloud","children":"Warranty"}],["$","$Lf","contact",{"href":"/help/contact","className":"rounded-xl px-4 py-2.5 text-[15px] hover:bg-cloud","children":"Contact us"}],["$","$Lf","store-locations",{"href":"/help/store-locations","className":"rounded-xl px-4 py-2.5 text-[15px] hover:bg-cloud","children":"Store locations"}],["$","$Lf","refund-returns-policy",{"href":"/help/refund-returns-policy","className":"rounded-xl px-4 py-2.5 text-[15px] hover:bg-cloud","children":"Refunds & returns"}],["$","$Lf","shipping-charges",{"href":"/help/shipping-charges","aria-current":"page","className":"rounded-xl px-4 py-2.5 text-[15px] bg-cloud font-semibold","children":"Shipping charges"}],["$","$Lf","privacy-policy",{"href":"/help/privacy-policy","className":"rounded-xl px-4 py-2.5 text-[15px] hover:bg-cloud","children":"Privacy policy"}],["$","$Lf","terms-conditions",{"href":"/help/terms-conditions","className":"rounded-xl px-4 py-2.5 text-[15px] hover:bg-cloud","children":"Terms & conditions"}]],["$","$Lf",null,{"href":"/faq","className":"rounded-xl px-4 py-2.5 text-[15px] hover:bg-cloud","children":"FAQs"}]]}],["$","article",null,{"className":"max-w-2xl flex-1","children":[["$","h1",null,{"className":"font-display text-[clamp(30px,3.6vw,44px)] leading-none font-bold tracking-[-0.04em]","children":"Shipping charges"}],["$","div",null,{"className":"mt-6 flex flex-col gap-4 text-[17px] leading-relaxed text-ink-soft","children":[["$","p",null,{"children":["Within the UAE, shipping is free on orders of ",[["$","span",null,{"aria-hidden":"true","children":["⃃"," "]}],["$","span",null,{"className":"sr-only","children":"AED "}]],"200 and above. For other countries we charge a flat rate per order, listed below in dirhams, and orders are shipped within ","7 to 9 working days","."]}],["$","p",null,{"children":["Rates don't include customs duties, taxes or clearance fees charged by the destination country. The person receiving the order pays these. See our"," ",["$","$Lf",null,{"href":"/help/terms-conditions#online-purchases","className":"font-medium text-accent hover:underline","children":"terms and conditions"}]," ","for the full shipping terms."]}],["$","$L11",null,{}]]}]]}]]}],[["$","script","script-0",{"src":"/mycandy-preview/_next/static/chunks/16pr36k87q4z6.js","async":true}],["$","script","script-1",{"src":"/mycandy-preview/_next/static/chunks/3f22j1ah0a712.js","async":true}]],["$","$L12",null,{"children":["$","$13",null,{"name":"Next.MetadataOutlet","children":"$@14"}]}]]}],"p":"$@15","v":null,"s":"$9"}}]]
+a:[["children",{"s":{"n":"topic","t":"d","k":"shipping-charges","s":[]},"h":65632,"d":{"r":["$","$2","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","template":["$","$L6",null,{}]}]]}],"p":"$@b","v":"$8","s":"$9"},"c":"$Qc"}]]
+1:[["children",{"s":"help","h":131136,"d":{"r":["$","$2","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","template":["$","$L6",null,{}]}]]}],"p":"$@7","v":"$8","s":"$9"},"c":"$Qa"}]]
+0:{"t":{"t":{"s":"","h":131088,"c":"$Q1"},"h":{"r":["$","$2","h",{"children":[null,["$","$L17",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","$L19",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$13",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Shipping charges | mycandy"}],["$","meta","1",{"name":"description","content":"mycandy, a part of Axiom by Tradeling, is a brand of mobile phone accessories focused on quality, functionality and value for money."}],["$","meta","2",{"name":"robots","content":"noindex, nofollow"}],["$","link","3",{"rel":"icon","href":"/mycandy-preview/brand/mycandy-mark.svg"}],["$","$L1a","4",{}]]}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":"$@1b","v":null,"s":"$9"}},"a":"$@1c","u":"$@1d","b":"fJfr9fsFEiPDMaJ-SoJAG"}
+14:null
+1d:true
+9:300
+9:C
+1c:0
+b:"$undefined"
+7:"$undefined"
+1b:"$undefined"
+15:"$undefined"

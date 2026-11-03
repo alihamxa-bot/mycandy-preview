@@ -1,0 +1,27 @@
+2:"$Sreact.fragment"
+3:"/mycandy-preview/_next/static/chunks/03-2apqwlzd3u.js"
+4:"/mycandy-preview/_next/static/chunks/3dz_xz4ebigx6.js"
+5:I[22950,["$3","$4"],"default"]
+6:I[63384,["$3","$4"],"default"]
+b:I[54560,["$3","$4"],""]
+c:I[12616,["$3","$4"],"OutletBoundary"]
+d:"$Sreact.suspense"
+10:"ViewportBoundary"
+11:I[12616,["$3","$4"],"$10"]
+12:"MetadataBoundary"
+13:I[12616,["$3","$4"],"$12"]
+14:I[74958,["$3","$4"],"IconMark"]
+8:X
+8:C
+9:X
+a:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$2","c",{"children":[["$","div",null,{"className":"mx-auto flex max-w-7xl flex-col items-center px-6 py-32 text-center","children":[["$","p",null,{"className":"text-sm font-semibold text-new","children":"404"}],["$","h1",null,{"className":"mt-2 font-display text-[clamp(32px,3.8vw,48px)] leading-none font-bold tracking-[-0.04em]","children":"Page not found."}],["$","p",null,{"className":"mt-4 text-muted","children":"The page you're looking for doesn't exist or has moved."}],["$","div",null,{"className":"mt-8 flex gap-3","children":[["$","$Lb",null,{"href":"/","className":"flex h-12 items-center rounded-full bg-accent px-6 text-white hover:bg-accent-hover","children":"Go home"}],["$","$Lb",null,{"href":"/search","className":"flex h-12 items-center px-5 text-accent hover:underline","children":"Browse products ›"}]]}]]}],null,["$","$Lc",null,{"children":["$","$d",null,{"name":"Next.MetadataOutlet","children":"$@e"}]}]]}],"p":"$@f","v":null,"s":"$9"}}]]
+1:[["children",{"s":"/_not-found","h":64,"d":{"r":["$","$2","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","template":["$","$L6",null,{}]}]]}],"p":"$@7","v":"$8","s":"$9"},"c":"$Qa"}]]
+0:{"t":{"t":{"s":"","h":16,"c":"$Q1"},"h":{"r":["$","$2","h",{"children":[["$","meta",null,{"name":"robots","content":"noindex"}],["$","$L11",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","$L13",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$d",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"mycandy | Mobile accessories in the UAE"}],["$","meta","1",{"name":"description","content":"mycandy, a part of Axiom by Tradeling, is a brand of mobile phone accessories focused on quality, functionality and value for money."}],["$","meta","2",{"name":"robots","content":"noindex, nofollow"}],["$","link","3",{"rel":"icon","href":"/mycandy-preview/brand/mycandy-mark.svg"}],["$","$L14","4",{}]]}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":"$@15","v":null,"s":"$9"}},"a":"$@16","u":"$@17","b":"fJfr9fsFEiPDMaJ-SoJAG"}
+e:null
+17:true
+9:300
+9:C
+16:0
+7:"$undefined"
+15:"$undefined"
+f:"$undefined"
